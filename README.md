@@ -1,4 +1,4 @@
-# Module-5 Day-5 SEB
+# Module-5 Day-1 SEB
 ## AIM:
 To write a c program to find factorial of the number  '10' using pointer.
 
